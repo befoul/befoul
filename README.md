@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I mailny post old projects and scripts
+I mainly post old projects
