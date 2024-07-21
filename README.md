@@ -1,4 +1,4 @@
-<h1 align="center">Joan</h1>
+<h1 align="left">About Joan</h1>
 
 ###
 
