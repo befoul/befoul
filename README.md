@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">@DOASSUDO</p>
+<p align="left">https://x.com/@DOASSUDO</p>
 
 ###
 
