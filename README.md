@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">https://x.com/@DOASSUDO</p>
+<p align="left"><a href="https://x.com/@DOASSUDO">DOASSUDO</a></p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">@makepkg</p>
+<p align="left"><a href="https://discordapp.com/users/1034656129910849536">makepkg</a></p>
 
 ###
 
