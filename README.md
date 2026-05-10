@@ -6,23 +6,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  />
-</div>
-
-###
-
-<p align="left"><a href="https://x.com/@DOASSUDO">DOASSUDO</a></p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="40" alt="discord logo"  />
-</div>
-
-###
-
-<p align="left"><a href="https://discordapp.com/users/1034656129910849536">makepkg</a></p>
 
 ###
 
