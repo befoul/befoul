@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">| System Administrator<br>| Unix Gnu/Linux enthusiast <br>| Wannabe Network engineer<br>| Hardware explorer<br>| </p>
+<p align="left">
+| Systems Administration & Infrastructure<br>
+| GNU/Linux, Unix & Open-Source Technologies<br>
+| Networking & Enterprise Systems<br>
+| Hardware, Virtualization & Lab Engineering<br>
+</p>
 
 ###
 
