@@ -7,6 +7,7 @@
 | GNU/Linux, Unix & Open-Source Technologies<br>
 | Networking & Enterprise Systems<br>
 | Hardware, Virtualization & Lab Engineering<br>
+| Lead System Architect and PM for Nodus Networks<br>
 </p>
 
 ###
